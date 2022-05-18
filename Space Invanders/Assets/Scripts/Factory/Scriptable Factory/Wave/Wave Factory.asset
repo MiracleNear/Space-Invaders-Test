@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74b6b8257b604d69b95afa9c515dbe7c, type: 3}
+  m_Name: Wave Factory
+  m_EditorClassIdentifier: 
+  _defaultConfiguraion: {fileID: 11400000, guid: 1fd1d92343a6d1b45a138980fd0982a1, type: 2}
